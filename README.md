@@ -37,8 +37,4 @@ First, ensure that TensorFlow is installed since Keras operates on top of a low-
 - **Target**: The compressive strength of the concrete.
 - **Architecture**: The neural network is built using Keras, with fully connected layers for regression.
 
-## Setup
 
-1. Clone the repository:
-   ```bash
-   git clone <repository-url>
